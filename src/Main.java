@@ -1,4 +1,6 @@
-//TODO:dodac brakujace klasy 
+//TODO:dodac brakujace klasy
+
+//Ok0
 
 public class Main {
     public static void main(String[] args) {
